@@ -1,11 +1,16 @@
+## GYM IRONMASS Template
+
 Don't forget `npm install` before run the project `npm start`
 
-simple responsive SPA using Vue.js = {
-props: ' buttons && section header ',
+Simple Responsive SPA using Vue.js = {
 routing: ' vue-router ',
+props: ' buttons && section header ',
 carousel: ' vue-slick ',
-
-bootstrap
+Transition,
+Directives,
+bootstrap,
+SCSS,
+vue-google-maps
 };
 
 ## Project setup

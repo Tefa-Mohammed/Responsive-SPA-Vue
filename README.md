@@ -1,4 +1,12 @@
-# first-project-vue
+Don't forget `npm install` before run the project `npm start`
+
+simple responsive SPA using Vue.js = {
+props: ' buttons && section header ',
+routing: ' vue-router ',
+carousel: ' vue-slick ',
+
+bootstrap
+};
 
 ## Project setup
 ```
